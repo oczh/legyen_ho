@@ -58,6 +58,7 @@ setTimeout(() => {
     uzenet.innerText = "Kapd el a hópelyheket!"
     uzenet.id = "szamlalo"
     formzas(uzenet, "20px", "aliceblue", "20px")
+    uzenet.style.paddingLeft = "20px"
     kaphatoE = true
 }, 10000)
 
