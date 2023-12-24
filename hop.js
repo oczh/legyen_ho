@@ -81,7 +81,5 @@ const formzas = (div, meret, szin, padding) => {
     div.style.fontFamily = "Cambria"
     div.style.fontSize = meret
     div.style.color = szin
-    console.log(padding)
     div.style.paddingTop = padding
-    console.log(div.style)
 }
